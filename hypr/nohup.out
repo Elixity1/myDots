@@ -1,0 +1,14 @@
+2025-03-15T03:05:00.507-0500 [WARN]  host: Failed loading stylesheet, continuing with defaults: file=/home/Graham/.config/hyprpanel/style.css
+2025-03-15T03:05:00.507-0500 [WARN]  host: Failed adding application watcher: target=/usr/local/share/applications err="no such file or directory"
+2025-03-15T03:05:00.507-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:00.708-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:00.908-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:01.108-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:01.310-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:01.511-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:01.712-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:01.912-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:02.113-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:02.313-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:02.514-0500 [ERROR] host: Clients failed: err="DBUS connection failed: could not connect to DBUS session: DBUS Notifications already claimed, disable notifications or close the other claiming application: code 3"
+2025-03-15T03:05:02.514-0500 [ERROR] host: Restarting too quickly, terminating
